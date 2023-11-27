@@ -30,6 +30,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/0xdarkhazel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xdarkhazel" /></a></p>
-<h3 align="left">Stats</h3>
+
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacanggelap&show_icons=true&locale=en&layout=compact" alt="kacanggelap" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ryo-ma&" alt="kacanggelap" /></p>
