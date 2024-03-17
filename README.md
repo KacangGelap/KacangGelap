@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/kacanggelap"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="kacanggelap" /></a> </p>
 
-- 🔭 I’m currently working on [API Face Recognition](https://itsmeapp.online)
+- 🔭 I’m currently working on [Building E-Commerce App](https://github.com/kacanggelap/cshop)
 
 - 🌱 I’m currently learning **HacktheBox Certified Defensive Security Analyst (HTB CDSA)**
 
