@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacanggelap&label=Profile%20views&color=0e75b6&style=flat" alt="kacanggelap" /> </p>
 
-<p align="left"> <a href="https://github.com/kacanggelap"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="kacanggelap" /></a> </p>
+<p align="left"> <a href="https://github.com/kacanggelap"><img src="https://github-profile-trophy.vercel.app/?username=kacanggelap" alt="kacanggelap" /></a> </p>
 
 - 🔭 I’m currently working on [Building E-Commerce App](https://github.com/kacanggelap/cshop)
 
