@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on [Building E-Commerce App](https://github.com/kacanggelap/cshop)
 
-- 🌱 I’m currently learning **HacktheBox Certified Defensive Security Analyst (HTB CDSA)**
+- 🌱 I’m currently learning about **MITRE ATT&CK**
 
 - 💬 Ask me about **Backend thingy, Offensive Cyber Security a.k.a ethical hacking**
 
 - 📫 How to reach me **dheway.apriandi@gmail.com**
 
-- 📄 Know about my experiences [https://app.hackthebox.com/users/407179](https://app.hackthebox.com/users/407179)
-
-- ⚡ Fun fact **Mitochondria is a powerhouse of a cell**
+- ⚡ Fun fact **Everything is vulnerable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
