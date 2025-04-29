@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Backend thingy, Offensive Cyber Security a.k.a ethical hacking**
 
-- 📫 How to reach me **dheway.apriandi@gmail.com**
-
 - ⚡ Fun fact **Everything is vulnerable**
 
 <h3 align="left">Connect with me:</h3>
