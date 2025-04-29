@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacanggelap&label=Profile%20views&color=0e75b6&style=flat" alt="kacanggelap" /> </p>
 
-- 🔭 I’m currently working on [TAMAGA Management Information System](https://github.com/kacanggelap/cshop)
+- 🔭 I’m currently working on [TAMAGA Management Information System](https://github.com/kacanggelap/tamaga)
 
 - 🌱 I’m currently learning about **MITRE ATT&CK**
 
