@@ -30,7 +30,11 @@
 <p><a href="https://www.buymeacoffee.com/0xdarkhazel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xdarkhazel" /></a></p><br><br>
 
 <h3 align="left">Stats:</h3>
-<p><a href="https://github-readme-stats.vercel.app/api/top-langs?username=kacanggelap&show_icons=true&locale=en&layout=compact"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacanggelap&show_icons=true&locale=en&layout=compact" alt="kacanggelap" /></a>
+<!--<p><a href="https://github-readme-stats.vercel.app/api/top-langs?username=kacanggelap&show_icons=true&locale=en&layout=compact"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacanggelap&show_icons=true&locale=en&layout=compact" alt="kacanggelap" /></a>
 </p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kacanggelap&" alt="kacanggelap" />
-</p>
+</p> -->
+<p>  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&preferLogin=true&Border=9FEB00&Title=9FEB00&Ring=9FEB00">    <img  alt="kacanggelap's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kacanggelap?cardType=github&theme=nightowl&preferLogin=true&Border=9FEB00&Title=9FEB00&Ring=9FEB00" />  </a></p>
+<br><br>
+<h3 align="left">Best HTB Season</h3>
+<p><a href="https://labs.hackthebox.com/achievement/season/407179/4"><img src="https://labs.hackthebox.com/achievement/season/preview/407179/4.png" alt="htb"></a></p>
